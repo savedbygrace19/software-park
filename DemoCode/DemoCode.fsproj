@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Customer.fs" />
+    <Compile Include="Orders.fs" />
+    <Compile Include="lists.fsx" />
+  </ItemGroup>
+</Project>
